@@ -1,5 +1,10 @@
+namespace test
 
-int a=1;
-
-
-lines
+class Program 
+{
+	static void Main(string[] args)
+	{
+		int a = 1;	
+		Console.WriteLine(a);
+	}	
+}
